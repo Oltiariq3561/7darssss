@@ -108,4 +108,10 @@ select {
   cursor: pointer;
   padding-bottom: 6px;
   transform: scale(110%);
-}/*# sourceMappingURL=style.css.map */
+}
+
+.img1 {
+  background-image: url("./img/unsplash_mO-_iF_FkCk.svg");
+  width: 286px;
+  height: 180px;
+}
