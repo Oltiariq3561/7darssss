@@ -185,6 +185,7 @@ select {
   background-color: #D3FBD9;
   transition: all 1s;
 }
+
 .cardd2 {
   width: 312px;
   height: 418px;
@@ -192,32 +193,38 @@ select {
   background-color: #FFE4BD;
   transition: all 1s;
 }
+
 .cardd3 {
   width: 312px;
   height: 418px;
   border-radius: 5px;
-  background-color: 
-  #D9ABFD;
+  background-color:
+    #D9ABFD;
   transition: all 1s;
 }
-.cardd1:hover{
-transform: scale(105%);
-}
-.cardd2:hover{
+
+.cardd1:hover {
   transform: scale(105%);
-  }
-  .cardd3:hover{
-    transform: scale(105%);
-    }
-    .cardd4:hover{
-      transform: scale(105%);
-      }
+}
+
+.cardd2:hover {
+  transform: scale(105%);
+}
+
+.cardd3:hover {
+  transform: scale(105%);
+}
+
+.cardd4:hover {
+  transform: scale(105%);
+}
+
 .cardd4 {
   width: 312px;
   height: 418px;
   border-radius: 5px;
-  background-color: 
-  #FDF0AB;
+  background-color:
+    #FDF0AB;
   transition: all 1s;
 }
 
@@ -334,8 +341,8 @@ transform: scale(105%);
   width: 16px;
   height: 15px;
   border-radius: 50%;
-  background-color: 
-  #33ABC6;
+  background-color:
+    #33ABC6;
   cursor: pointer;
 }
 
@@ -351,8 +358,8 @@ transform: scale(105%);
   width: 16px;
   height: 15px;
   border-radius: 50%;
-  background-color: 
-  #3F65EA;
+  background-color:
+    #3F65EA;
   cursor: pointer;
 }
 
@@ -360,9 +367,8 @@ transform: scale(105%);
   width: 16px;
   height: 15px;
   border-radius: 50%;
-  background-color: 
-  #F64A69
-  ;
+  background-color:
+    #F64A69;
   cursor: pointer;
 }
 
@@ -370,8 +376,8 @@ transform: scale(105%);
   width: 16px;
   height: 15px;
   border-radius: 50%;
-  background-color: 
-  #A635EC;
+  background-color:
+    #A635EC;
   cursor: pointer;
 }
 
@@ -379,8 +385,8 @@ transform: scale(105%);
   width: 16px;
   height: 15px;
   border-radius: 50%;
-  background-color: 
-  #F9A85D;
+  background-color:
+    #F9A85D;
   cursor: pointer;
 }
 
@@ -391,46 +397,50 @@ transform: scale(105%);
   padding-left: 24px;
 }
 
-.p3{
-font-weight: 400;
-font-size: 14px;
-padding-top: 24px;
-padding-left: 24px;
+.p3 {
+  font-weight: 400;
+  font-size: 14px;
+  padding-top: 24px;
+  padding-left: 24px;
 }
 
-.pul{
+.pul {
   font-weight: 500;
   font-size: 14px;
   padding-top: 32px;
   padding-left: 24px;
 }
 
-.car1{
-display: flex;
-background-color: #F5F6F8;
-align-items: center;
-width: 424px;
-height: 174px;
-justify-content: space-around;
-transition: all 1s;
-border-radius: 5px;
+.car1 {
+  display: flex;
+  background-color: #F5F6F8;
+  align-items: center;
+  width: 424px;
+  height: 174px;
+  justify-content: space-around;
+  transition: all 1s;
+  border-radius: 5px;
 }
-.car1:hover{
-transform: scale(105%);
+
+.car1:hover {
+  transform: scale(105%);
 }
-.cars{
-display: flex;
-gap: 24px;
-margin-top: 48px;
+
+.cars {
+  display: flex;
+  gap: 24px;
+  margin-top: 48px;
 }
-h3{
-font-size: 16px;
-font-weight: 500;
-width: 113px;
-padding-bottom: 12px;
+
+h3 {
+  font-size: 16px;
+  font-weight: 500;
+  width: 113px;
+  padding-bottom: 12px;
 }
-.p5{
-font-size: 12px;
-line-height: 12px;
-width: 176px;
+
+.p5 {
+  font-size: 12px;
+  line-height: 12px;
+  width: 176px;
 }
